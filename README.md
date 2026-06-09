@@ -20,7 +20,7 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamirascencio@gmail.com)
 
 <!-- EXCITED CHARACTERS -->
-
+<br>
 <img src="https://media.giphy.com/media/UHprOB2h0CBWJ7gz9i/giphy.gif" width="75">&nbsp;
 
 <!-- DIVIDER -->
@@ -48,6 +48,8 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
+<br>
+
 <!-- FEATURED PROJECTS -->
 ### 🚀 Mis Proyectos Destacados
 
@@ -63,24 +65,25 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 
 <br>
 
-<!-- STATS & DECOR (SIN TABLA PARA EVITAR BORDES) -->
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jamirascencioflores&theme=tokyonight&hide_border=true" alt="Stats" />
-<p align="right">
-  <img src="https://media.giphy.com/media/NfBQ73MtvPJS/giphy.gif" height="195" alt="decor">
+<!-- STATS & DECOR -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamirascencioflores&theme=tokyonight&hide_border=true" width="50%" alt="Stats" />
+  <img src="https://media.giphy.com/media/NfBQ73MtvPJS/giphy.gif" width="45%" alt="decor">
 </p>
-<br clear="both">
 
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<!-- FAREWELL & JOKE (SIN TABLA PARA EVITAR BORDES) -->
+<br>
+
+<!-- FAREWELL & JOKE -->
 <img align="left" src="https://media.giphy.com/media/HrEzYxOULdOjm/giphy.gif" width="35%" alt="farewell-gif">
-<div align="right">
+<p align="center">
   <br>
   <b>Un chiste al día mantiene los bugs en la lejanía 🐛</b><br><br>
   <i>— ¿Por qué los programadores prefieren el modo oscuro?</i><br>
   <i>— Porque la luz atrae a los bugs. 🦇💻</i>
-</div>
+</p>
 <br clear="both">
 
 <!-- DIVIDER -->
