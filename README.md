@@ -20,7 +20,6 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamirascencio@gmail.com)
 
 <!-- EXCITED CHARACTERS -->
-<br>
 <img src="https://media.giphy.com/media/UHprOB2h0CBWJ7gz9i/giphy.gif" width="75">&nbsp;
 
 <!-- DIVIDER -->
@@ -48,8 +47,6 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<br>
-
 <!-- FEATURED PROJECTS -->
 ### 🚀 Mis Proyectos Destacados
 
@@ -63,8 +60,6 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<br>
-
 <!-- STATS & DECOR -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamirascencioflores&theme=tokyonight&hide_border=true" width="50%" alt="Stats" />
@@ -73,8 +68,6 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-<br>
 
 <!-- FAREWELL & JOKE -->
 <img align="left" src="https://media.giphy.com/media/HrEzYxOULdOjm/giphy.gif" width="35%" alt="farewell-gif">
