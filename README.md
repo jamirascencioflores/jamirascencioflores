@@ -51,10 +51,12 @@ Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasio
 <!-- FEATURED PROJECTS -->
 ### 🚀 Mis Proyectos Destacados
 
-* 🛒 **[Tech-Store](#)**: Plataforma E-commerce desarrollada con ASP.NET Core y arquitectura de microservicios.
-* 📦 **[Courier Perú](#)**: Sistema de logística y gestión de pedidos impulsado por microservicios y RabbitMQ.
-* 📝 **[DoSkills](#)**: Sistema de digitalización a medida estructurado con roles independientes (Administrador, Supervisor y Auditor).
-* 🍰 **[Pastelería Web React](#)**: SPA interactiva con catálogo de productos y carrito de compras.
+* 🛒 **[Tech-Store](https://github.com/jamirascencioflores/tech-store-ecommerce.git)**: Plataforma E-commerce desarrollada con ASP.NET Core y arquitectura de microservicios.
+* 📦 **[Courier Perú](https://github.com/jamirascencioflores/courier-system-micros.git)**: Sistema de logística y gestión de pedidos impulsado por microservicios y RabbitMQ.
+* 📝 **[DoSkills](https://github.com/NOS-PLANET/doskills-backend.git)**: Sistema de digitalización a medida estructurado con roles independientes (Administrador, Supervisor y Auditor).
+* 🍰 **[Pastelería Web React](https://github.com/jamirascencioflores/pasteleria-sistema.git)**: SPA interactiva con catálogo de productos y carrito de compras.
+* 🍽️ **[Restaurante Acurio's](https://github.com/jamirascencioflores/restaurante-acurios.git)**: Sistema de gestión y atención integral para restaurante.
+* 📚 **[Sistema de Gestión de Biblioteca](https://github.com/jamirascencioflores/SistemaBiblioteca.git)**: Aplicación para la administración de inventario y control de préstamos de libros.
   
 <!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
