@@ -7,13 +7,17 @@
 </picture>
 
 <!-- PROFILE HEADER INTRO (LHS) -->
-¡Hola a todos! 👋 Soy **Jamir Ascencio**.
+### ¡Hola! 👋 Soy Jamir Ascencio
 
-Soy un **Desarrollador Full Stack Junior** con **1 año** de experiencia, apasionado por crear soluciones tecnológicas completas de principio a fin.
+💻 **Desarrollador Full Stack | Java & Spring Boot | React & Next.js**
 
-💻 Me encanta la versatilidad; disfruto construyendo tanto arquitecturas backend robustas como interfaces frontend dinámicas. Actualmente trabajo dándole vida a grandes proyectos en **Nos Planét**.
+Desarrollo aplicaciones web y soluciones empresariales, trabajando tanto en backend como en frontend.
 
-🌟 Fuera del código, me recargo jugando **fútbol** y **voleibol**, disfrutando de buenas sesiones de **gaming** o viendo **cine**.
+Cuento con experiencia en proyectos de digitalización de procesos, desarrollo de APIs REST, gestión de bases de datos y plataformas SaaS.
+
+Actualmente, mi enfoque está en seguir fortaleciendo mis conocimientos en arquitectura de software, microservicios y buenas prácticas de desarrollo.
+
+🚀 Me interesa construir soluciones tecnológicas que resuelvan problemas reales y aporten valor a las organizaciones.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://jamirascencio-cv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamir-ascencio/)
